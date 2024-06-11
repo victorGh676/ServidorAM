@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VH8FdljFnX2cMqs99GMX8LPLy6cQv87fTbHOCAxNQmM=",
+  "Source": "Crud.Server",
+  "BasePath": "_content/Crud.Server",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

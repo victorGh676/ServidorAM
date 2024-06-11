@@ -1,0 +1,121 @@
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1 EM\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CC & G\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1 CCG & C\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.2 - copia\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.1\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Facturacion v1.3.2\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll

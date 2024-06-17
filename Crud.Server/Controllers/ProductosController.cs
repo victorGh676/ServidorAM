@@ -75,7 +75,7 @@ namespace Crud.Server.Controllers
                         Nombre = producto.Nombre,
                         Precio = producto.Precio,
                         Stock = producto.Stock,
-                        Descontinuado = producto.Descontinuado
+                        Descontinuado = false
                     };
                     _dbContext.Productos.Add(newProduct);
 
@@ -96,9 +96,13 @@ namespace Crud.Server.Controllers
                     responseApi.Valor = true;
                     responseApi.Mensaje = "Producto creado exitosamente.";
                 }
-                responseApi.EsCorrecto = false;
-                responseApi.Valor = false;
-                responseApi.Mensaje = "El nombre del producto ya fue registrado";
+                else
+                {
+                    responseApi.EsCorrecto = false;
+                    responseApi.Valor = false;
+                    responseApi.Mensaje = "El nombre del producto ya fue registrado";
+                }
+                
             }
             catch (Exception ex)
             {

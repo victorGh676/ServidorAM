@@ -24,7 +24,7 @@ namespace Crud.Server.Controllers
             try
             {
                 var buscar = await _dbContext.Usuarios.FirstOrDefaultAsync(x => x.Cedula == usuario.Cedula || x.Email==usuario.Email);
-
+                
                 if (buscar==null)
                 {
                     var dbUsuario = new Usuario
@@ -87,8 +87,11 @@ namespace Crud.Server.Controllers
                         UsuarioID = usuDB.UsuarioId,
                         Cedula = usuDB.Cedula,
                         Nombre = usuDB.Nombre,
+                        Apellido= usuDB.Apellido,
+                        Activo = usuDB.Activo,
                         Direccion = usuDB.Direccion,
                         Email = usuDB.Email,
+                        Password = usuDB.Password,
                         Telefono = usuDB.Telefono,
                         FechaNacimiento = usuDB.FechaNacimiento,
                         RolID = usuDB.IdRolPer

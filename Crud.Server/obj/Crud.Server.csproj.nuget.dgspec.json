@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Crud.Server.csproj": {}
+    "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\Crud.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Crud.Server.csproj": {
+    "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\Crud.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Crud.Server.csproj",
+        "projectUniqueName": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\Crud.Server.csproj",
         "projectName": "Crud.Server",
-        "projectPath": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Crud.Server.csproj",
+        "projectPath": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\Crud.Server.csproj",
         "packagesPath": "C:\\Users\\ZaikoLap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\obj\\",
+        "outputPath": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Shared\\Crud.Shared.csproj": {
-                "projectPath": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Shared\\Crud.Shared.csproj"
+              "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Shared\\Crud.Shared.csproj": {
+                "projectPath": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Shared\\Crud.Shared.csproj"
               }
             }
           }
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Shared\\Crud.Shared.csproj": {
+    "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Shared\\Crud.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Shared\\Crud.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Shared\\Crud.Shared.csproj",
         "projectName": "Crud.Shared",
-        "projectPath": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Shared\\Crud.Shared.csproj",
+        "projectPath": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Shared\\Crud.Shared.csproj",
         "packagesPath": "C:\\Users\\ZaikoLap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Shared\\obj\\",
+        "outputPath": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

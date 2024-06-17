@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ZaikoLap\\Desktop\\Server\\",
+  "WorkspaceRootPath": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|c:\\users\\zaikolap\\desktop\\server\\crud.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|solutionrelative:crud.server\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|c:\\users\\zaikolap\\desktop\\server\\crud.server\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|c:\\users\\zaikolap\\desktop\\serveram\\crud.server\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|solutionrelative:crud.server\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|c:\\users\\zaikolap\\desktop\\server\\crud.server\\controllers\\ordenventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E19F015-C07F-43CE-B967-630E3C7D1662}|Crud.Server\\Crud.Server.csproj|solutionrelative:crud.server\\controllers\\ordenventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "Crud.Server\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "Crud.Server\\Controllers\\ProductosController.cs",
-              "ViewState": "AQIAACIAAAAA//////8pwCkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T23:08:20.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrdenVentasController.cs",
-              "DocumentMoniker": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Controllers\\OrdenVentasController.cs",
-              "RelativeDocumentMoniker": "Crud.Server\\Controllers\\OrdenVentasController.cs",
-              "ToolTip": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Controllers\\OrdenVentasController.cs",
-              "RelativeToolTip": "Crud.Server\\Controllers\\OrdenVentasController.cs",
-              "ViewState": "AQIAADQAAAAAzczMzMwUwKIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T22:51:19.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Controllers\\UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Crud.Server\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\ZaikoLap\\Desktop\\Server\\Crud.Server\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\ZaikoLap\\Desktop\\ServerAM\\Crud.Server\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "Crud.Server\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T19:11:53.461Z",
+              "WhenOpened": "2024-06-16T18:51:20.761Z",
               "EditorCaption": ""
             }
           ]

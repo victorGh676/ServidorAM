@@ -27,10 +27,8 @@ public partial class FacturacionContext : DbContext
 
     public virtual DbSet<Usuario> Usuarios { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) { }
 
-    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -63,7 +61,9 @@ public partial class FacturacionContext : DbContext
 
             entity.Property(e => e.IdImagen).HasColumnName("idImagen");
             entity.Property(e => e.IdProPer).HasColumnName("idProPer");
-            entity.Property(e => e.Imagen).HasColumnName("imagen");
+            entity.Property(e => e.Imagen)
+                .HasColumnType("image")
+                .HasColumnName("imagen");
 
             entity.HasOne(d => d.IdProPerNavigation).WithMany(p => p.ImgsProductos)
                 .HasForeignKey(d => d.IdProPer)

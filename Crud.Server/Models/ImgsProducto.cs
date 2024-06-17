@@ -7,7 +7,7 @@ public partial class ImgsProducto
 {
     public int IdImagen { get; set; }
 
-    public byte[]? Imagen { get; set; }
+    public byte[] Imagen { get; set; } = null!;
 
     public int? IdProPer { get; set; }
 

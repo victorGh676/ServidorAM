@@ -119,3 +119,15 @@ C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
 C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
 C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
 C:\Users\ZaikoLap\Desktop\Server\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\bin\Debug\net7.0\Crud.Shared.deps.json
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\bin\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\bin\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfoInputs.cache
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.AssemblyInfo.cs
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.sourcelink.json
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\refint\Crud.Shared.dll
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\Crud.Shared.pdb
+C:\Users\ZaikoLap\Desktop\ServerAM\Crud.Shared\obj\Debug\net7.0\ref\Crud.Shared.dll

@@ -18,14 +18,15 @@ builder.Services.AddDbContext<FacturacionContext>(optiones =>
 builder.Services.AddCors(opciones =>
 {
     opciones.AddPolicy("AllowBlazorClient",
-            builder =>
-            {
-                builder.WithOrigins("http://localhost:5135")
-                       .AllowAnyHeader()
-                       .AllowAnyMethod()
-                       .AllowCredentials();
-            });
+        builder =>
+        {
+            builder.AllowAnyOrigin()
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+            // No usar AllowCredentials()
+        });
 });
+
 
 var app = builder.Build();
 
